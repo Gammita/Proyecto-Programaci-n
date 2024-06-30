@@ -1,0 +1,7 @@
+D:\Universidad\V Cuatrimestre\Programación II\Proyecto\Proyecto Prueba 2\Proyecto Prueba 2\obj\Debug\Proyecto Prueba 2.csproj.AssemblyReference.cache
+D:\Universidad\V Cuatrimestre\Programación II\Proyecto\Proyecto Prueba 2\Proyecto Prueba 2\obj\Debug\Proyecto Prueba 2.csproj.CoreCompileInputs.cache
+D:\Universidad\V Cuatrimestre\Programación II\Proyecto\Proyecto Prueba 2\Proyecto Prueba 2\bin\Debug\Proyecto Prueba 2.exe.config
+D:\Universidad\V Cuatrimestre\Programación II\Proyecto\Proyecto Prueba 2\Proyecto Prueba 2\bin\Debug\Proyecto Prueba 2.exe
+D:\Universidad\V Cuatrimestre\Programación II\Proyecto\Proyecto Prueba 2\Proyecto Prueba 2\bin\Debug\Proyecto Prueba 2.pdb
+D:\Universidad\V Cuatrimestre\Programación II\Proyecto\Proyecto Prueba 2\Proyecto Prueba 2\obj\Debug\Proyecto Prueba 2.exe
+D:\Universidad\V Cuatrimestre\Programación II\Proyecto\Proyecto Prueba 2\Proyecto Prueba 2\obj\Debug\Proyecto Prueba 2.pdb
